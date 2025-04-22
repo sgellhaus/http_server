@@ -1,0 +1,3 @@
+# Simple HTTP-Server
+Usage:
+$ http_server [--port PORT --dir DIR] $
